@@ -1,0 +1,7 @@
+j'ai fait la méthode bouger une Pièce mais je n'ai pas pu faire les deux autres modifications 
+n'ayant pas fait la partie FX.
+
+Dans bouger une piece j'ai fait une methode qui delete la piece du board et en meme temps reconstruit la Piece
+pouvoir l'as rajouter au Stock et ensuite pourvoir l'ajouter.
+
+je n ais pas fait les test
